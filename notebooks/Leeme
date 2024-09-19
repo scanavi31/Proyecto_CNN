@@ -1,0 +1,7 @@
+01_data_understanding.ipynb    -> Exploración y análisis inicial del dataset
+02_data_preparation.ipynb      -> Preprocesamiento de datos (limpieza, normalización, etc.)
+03_modeling.ipynb              -> Implementación del modelo CNN para clasificación
+04_evaluation.ipynb            -> Evaluación del modelo (métricas, visualización de resultados)
+05_deployment.ipynb            -> Preparación para despliegue o uso en tiempo real
+
+.... Seguir metodología CRISP_DM
