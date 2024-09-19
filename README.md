@@ -1,3 +1,5 @@
+# Proyecto Trabajo Colaborativo
+
 # Actividad: 
 ## Aplicación de Redes Convolucionales para la Clasificación de Vegetales usando la Metodología CRISP-DM
 
