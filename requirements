@@ -1,0 +1,25 @@
+numpy==
+pandas==
+matplotlib==
+seaborn==
+scikit-learn==
+tensorflow==
+keras==
+opencv-python==
+Pillow==
+jupyterlab==
+notebook==
+ipykernel==
+
+
+Explicación del uso básico de cada una de las librerias:
+
+numpy: Manipulación de arrays y operaciones numéricas.
+pandas: Análisis y manipulación de datos estructurados (DataFrames).
+matplotlib y seaborn: Visualización de gráficos y análisis de datos.
+scikit-learn: Preprocesamiento de datos, métricas y evaluación de modelos.
+tensorflow y keras: Desarrollo y entrenamiento de redes convolucionales (CNN).
+opencv-python: Manipulación y procesamiento de imágenes.
+Pillow: Procesamiento de imágenes (soporte para formatos como JPG, PNG).
+jupyterlab y notebook: Ejecución de notebooks para análisis y desarrollo interactivo.
+ipykernel: Comunicación entre Jupyter y el kernel de Python.
