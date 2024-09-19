@@ -1,0 +1,1 @@
+data/: Estructura para almacenar los datos originales (raw/) y los datos procesados para modelado (processed/).
