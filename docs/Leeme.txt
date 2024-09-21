@@ -1,6 +1,8 @@
 Documentación:
 
 - Descripción detallada de cada paso de CRISP-DM aplicado al proyecto
+- Documentación del dataset
+
 
 Referencias:
 
