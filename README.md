@@ -15,3 +15,8 @@ Revisar y aplicar herramientas de procesamiento de datos y redes convolucionales
 ## Materiales:
 - Repositorio en GitHub proporcionado por el mentor, que contiene el dataset y el código base.
 - Conexión a internet y un entorno de desarrollo (Google Colab, Jupyter Notebook, etc.).
+
+## Resultados esperados:
+- Modelo de red CNN 
+- Comparación entre tecnicas de modelado
+- Aplicación movil utilizando el modelo seleccionador
